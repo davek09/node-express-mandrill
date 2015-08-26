@@ -1,0 +1,12 @@
+{
+  "name": "responsive-nodular-emails",
+  "description": "learning how to make reponsive emails with node, yeoman, ink",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "hogan.js": "^3.0.2",
+    "node-mandrill": "^1.0.1"
+  }
+}
